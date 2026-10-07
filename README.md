@@ -52,7 +52,7 @@ https://discord.gg/ncaaXkkZt
 
 یوتوب: https://www.youtube.com/@sajadsaber
 
-اینم یسری اطلاعات که به در شما باهوشا میخوره که با کمک کلاد سعی کردم بگم چیکار کردم
+اینم یسری اطلاعات که به در شما باهوشا میخوره که سعی کردم بگم چیکار کردم
 
 
 A per-application traffic router for Windows: pick which programs (browser,
