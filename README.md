@@ -45,6 +45,7 @@ https://discord.gg/ncaaXkkZt
 خلاصه‌ که اگه سوال دیگه ای هم داشتین میتونین تو اینستا یا دیسکورد بپرسین 
 
 ترو خدا باهام دوست بشین و کمکم کنید
+
 دیسکورد:   https://discord.gg/ncaaXkkZt
 
 اینستاگرام: https://Instagram.com/sajadsaberm
