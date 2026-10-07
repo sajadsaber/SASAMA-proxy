@@ -107,8 +107,7 @@ settings to confirm the port.
 The project targets x64 specifically rather than "Any CPU," to match the
 `WinDivert.dll` / `WinDivert64.sys` binaries bundled in `Redist\x64` -
 P/Invoke requires the managed process and the native DLL to be the same
-bitness. Nearly every Windows 10/11 PC (yours included, from what you've
-told me) is x64, so this isn't a real-world limitation - just noting it in
+bitness. Nearly every Windows 10/11 PC is x64, so this isn't a real-world limitation - just noting it in
 case you ever need 32-bit support later, which would mean adding the
 32-bit WinDivert binaries and a second build configuration.
 
