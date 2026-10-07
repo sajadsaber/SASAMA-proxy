@@ -46,7 +46,9 @@ https://discord.gg/ncaaXkkZt
 
 ترو خدا باهام دوست بشین و کمکم کنید
 دیسکورد:   https://discord.gg/ncaaXkkZt
+
 اینستاگرام: https://Instagram.com/sajadsaberm
+
 یوتوب: https://www.youtube.com/@sajadsaber
 
 اینم یسری اطلاعات که به در شما باهوشا میخوره که با کمک کلاد سعی کردم بگم چیکار کردم
